@@ -1,0 +1,13 @@
+D:\VS Projects\Cube\bin\Debug\Kubic.exe.config
+D:\VS Projects\Cube\bin\Debug\Kubic.exe
+D:\VS Projects\Cube\bin\Debug\Kubic.pdb
+D:\VS Projects\Cube\obj\Debug\Kubic.csproj.AssemblyReference.cache
+D:\VS Projects\Cube\obj\Debug\Kubic.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\Cube\obj\Debug\Kubic.Properties.Resources.resources
+D:\VS Projects\Cube\obj\Debug\Kubic.csproj.GenerateResource.cache
+D:\VS Projects\Cube\obj\Debug\Kubic.csproj.CoreCompileInputs.cache
+D:\VS Projects\Cube\obj\Debug\Kubic.exe
+D:\VS Projects\Cube\obj\Debug\Kubic.pdb
+D:\VS Projects\Cube\obj\Debug\Kubic.StartMenu.resources
+D:\VS Projects\Cube\obj\Debug\Kubic.DiceGame.resources
+D:\VS Projects\Cube\obj\Debug\Kubic.Presentation.resources
